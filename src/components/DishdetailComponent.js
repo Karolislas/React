@@ -31,7 +31,6 @@ import { Card, CardImg, CardText, CardBody, CardTitle } from 'reactstrap';
             </li>
             );
         })
-
         if (comments != null)
             return (
                 <div className="col-12 col-md-5 m-1">
